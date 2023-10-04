@@ -24,7 +24,7 @@
 		]
 	},
 	"mixins": [
-		"modid.mixins.json",
+		"cloaksandgrimoires.mixins.json",
 		{
 			"config": "modid.client.mixins.json",
 			"environment": "client"
