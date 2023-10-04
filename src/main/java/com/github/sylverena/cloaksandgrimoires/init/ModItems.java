@@ -21,7 +21,7 @@ public class ModItems
      */
     public static void init()
     {
-        BAREBONES_GRIMOIRE = Registry.register(Registries.ITEM, new Identifier(CloaksAndGrimoires.MODID, "barebones-unaspected"), new Item(new FabricItemSettings()));
+        BAREBONES_GRIMOIRE = Registry.register(Registries.ITEM, new Identifier(CloaksAndGrimoires.MODID, "barebones_grimoire"), new Item(new FabricItemSettings()));
     }
 
 
