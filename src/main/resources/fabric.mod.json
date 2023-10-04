@@ -1,11 +1,12 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "cloaksandgrimoires",
 	"version": "${version}",
-	"name": "Example mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Cloaks and Grimoires",
+	"description": "A wizard mod for minecraft with a focus on magic and adventure using the fabric api",
 	"authors": [
-		"Me!"
+		"Sylverena",
+		"slipcat.xd"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,7 +17,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.github.sylverena.cloaksandgrimoires.CloaksAndGrimoires"
 		],
 		"client": [
 			"com.example.ExampleModClient"
