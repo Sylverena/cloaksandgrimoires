@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BFF",
+    "BPG",
+    "BFF"
+  ],
+  "key": {
+    "B": {
+      "item" : "minecraft:bone"
+    },
+    "F": {
+      "item" : "minecraft:rotten_flesh"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "G": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "cloaksandgrimoires:barebones_grimoire"
+  }
+}
