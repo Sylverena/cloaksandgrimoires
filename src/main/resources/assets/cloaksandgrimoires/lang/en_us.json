@@ -1,5 +1,7 @@
 {
   "itemgroup.cloaksandgrimoires.cloaksandgrimoires_group" : "Cloaks and Grimoires",
   "item.cloaksandgrimoires.barebones_grimoire" : "Unaspected Barebones Grimoire",
-  "item.cloaksandgrimoires.basic_wand" : "Basic Wand"
+  "item.cloaksandgrimoires.basic_wand" : "Basic Wand",
+  "item.cloaksandgrimoires.basic_cloak" : "Basic Cloak",
+  "item.cloaksandgrimoires.enchanted_cloth": "Enchanted Cloth"
 }
