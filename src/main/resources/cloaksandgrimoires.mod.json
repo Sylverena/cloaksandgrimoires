@@ -9,11 +9,11 @@
 		"slipcat.xd"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Sylverena/cloaksandgrimoires",
+		"sources": "https://github.com/Sylverena/cloaksandgrimoires"
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/modid/icon.png",
+	"license": "GPL-3.0",
+	"icon": "assets/cloaksandgrimoires/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 	"mixins": [
 		"cloaksandgrimoires.mixins.json",
 		{
-			"config": "modid.client.mixins.json",
+			"config": "cloaksandgrimoires.client.mixins.json",
 			"environment": "client"
 		}
 	],
